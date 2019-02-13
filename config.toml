@@ -3,6 +3,7 @@ languageCode = "zh-cmn-Hant"
 title = "Miranda Tilton"
 theme = "hugo-bingo"
 
+publishDir = "<MirandaTilton.github.io>""
 disableHugoGeneratorInject = true
 enableEmoji = true
 footnoteReturnLinkContents = "↩"
