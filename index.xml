@@ -5,10 +5,29 @@
     <link>/</link>
     <description>Recent content in Home on Miranda Tilton</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 02 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Venn Pie-agram</title>
+      <link>/posts/venn-pie-agram/</link>
+      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/venn-pie-agram/</guid>
+      <description>Here’s the Venn Pie-agram I made to celebrate Pi(e) Day 2019. Flavors are cherry, apple, and cherry apple!
+library(magick)## Linking to ImageMagick 6.9.9.14## Enabled features: cairo, freetype, fftw, ghostscript, lcms, pango, rsvg, webp## Disabled features: fontconfig, x11pie &amp;lt;- image_read(&amp;quot;https://github.com/MirandaTilton/MirandaTilton.github.io/raw/master/post/0313190900b_2.jpg&amp;quot;)pie </description>
+    </item>
+    
+    <item>
+      <title>Venn Pie-agram</title>
+      <link>/posts/venn-pie-agram/</link>
+      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/venn-pie-agram/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Code Demo</title>
